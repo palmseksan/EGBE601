@@ -17,9 +17,9 @@ In this section, the processed ECG signals are used to train a Convolutional Neu
 Including train-test split and normalization of the data.
 
 #### CNN Modeling: 
-Designing the architecture of the Convolutional Neural Network.
-Training: Training the CNN model on the preprocessed ECG data.
-Model Evaluation: Evaluating the trained model's performance using appropriate metrics.
+- Designing the architecture of the Convolutional Neural Network.
+- Training the CNN model on the preprocessed ECG data.
+- Evaluating the trained model's performance using appropriate metrics.
 
 ## Contributors
 1. Seksan Yoadsanit
